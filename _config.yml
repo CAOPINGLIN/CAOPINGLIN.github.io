@@ -4,10 +4,10 @@
 # ---------------------------------------------------------------
 
 # Site
-title: Jia's Blog
+title: Cao's Blog
 subtitle: Record & Share
 description: This page is under construction now...
-author: JIA
+author: CAO
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
 date_format: '%Y-%m-%d'
@@ -79,7 +79,7 @@ plugins:
 favicon: /assets/favicon.ico
 
 # Set default keywords (Use a comma to separate)
-keywords: "Jia, Vooooooodga, Bioinformatics, co-operation evolution"
+keywords: ""
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
